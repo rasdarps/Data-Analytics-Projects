@@ -1,4 +1,4 @@
-# data-analytics-projects
+# Data Analytics Projects
 This repository is a collection of all my Data Analysis Projects
 
 **Toolsets:** 
