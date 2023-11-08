@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# PowerBI Data Analytics Projects
 This repository is a collection of all my Data Analysis Projects using PowerBI
 
 **Toolsets:** 
